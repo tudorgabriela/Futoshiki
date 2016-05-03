@@ -1,3 +1,4 @@
+
 # Futoshiki
 
 Echipa : Tudor Georgiana Gabriela, Ilie Iulia
@@ -8,4 +9,6 @@ Echipa : Tudor Georgiana Gabriela, Ilie Iulia
  Cu toate acestea, nu există regiuni caseta ca în sudoku. Marea diferență sunt  semnele de inegalitate, iar jucatorul  trebuie să se supună acestora în răspunsurile  pe care le va da. De exemplu, dacă avem  o celulă mai mare decât cea de lângă ea, atunci știm ca celula din stânga nu poate fi  1, iar celula din dreapta nu poate fi 5.
  Utilizati  logica pentru a deduce unde merge fiecare  număr pentru a rezolva puzzle-ul.
 
-# 
+
+
+

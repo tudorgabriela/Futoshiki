@@ -1,14 +1,14 @@
 
 # Futoshiki
-
 Echipa : Tudor Georgiana Gabriela, Ilie Iulia
 
- Futoshiki este un joc puzzle amuzant. Regulile jocului Futoshiki sunt urmatoarele:
- Incepi cu o grila de forma 5x5, sau 7 x 7 pentru puzzle-uri Futoshiki mai mari.
- Scopul este de a umple fiecare rând și coloană cu numere de la 1 – 5, fiecare aparand o singura dată (presupunând o grilă 5x5) - această regulă este familiară din sudoku.
- Cu toate acestea, nu există regiuni caseta ca în sudoku. Marea diferență sunt  semnele de inegalitate, iar jucatorul  trebuie să se supună acestora în răspunsurile  pe care le va da. De exemplu, dacă avem  o celulă mai mare decât cea de lângă ea, atunci știm ca celula din stânga nu poate fi  1, iar celula din dreapta nu poate fi 5.
- Utilizati  logica pentru a deduce unde merge fiecare  număr pentru a rezolva puzzle-ul.
-
-
-
-
+# Quelques mots de notre projet
+ Le Futoshiki, qui veut dire "non égal" en japonais, est un énorme succès au Japon depuis 5 ans et il arrive en Europe depuis la fin 2006. Ses règles extrêmement simples, aussi simples que celles du Sudoku, sont sans doute les clés de cet immense succès.
+ Il est basé sur une grille carrée dans laquelle sont inscrits des nombres suivant quelques règles très simples. Sur une grille de 5x5, les nombres de un à cinq doivent être placés dans chaque ligne et chaque colonne, sans aucune répétition. Les signes "plus grand que" ou "plus petit que" entre les cases sont des indices qui doivent obligatoirement être respectés. Chaque grille possède une solution unique.
+ 
+ # Notions de notre projet
+ Tout d'abord, nous avons commencer à travailler sur l'aspect de notre jeu. Aussi on a cree la fenêtre principale qui va contenant le menu, l'aide et le bouton de démarrage.
+Nous avons allé à introduire les boutons pour créer des "règles"et des "indications". Puis on a ajouter des règles de jeu, les niveaux de jeu, le bouton "New Game", la grille de vérification et les indices qui seront affiché ci-dessus en passant les boutons créés.
+ 
+ 
+ 
